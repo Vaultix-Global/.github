@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vaultix.global/favicon.ico" width="80" alt="Vaultix" />
+  <img src="https://www.vaultix.global/vaultix_logopng.png" width="120" alt="Vaultix" />
 </p>
 
 <h1 align="center">Vaultix Global</h1>
